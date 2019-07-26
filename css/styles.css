@@ -3,3 +3,10 @@ body {
         font-family: 'monaco';
         color:deeppink;
 }
+
+.borderline{
+        border: 2px solid deeppink;
+        border-radius: 10px;
+        width: 70%;
+        margin: 0 auto;
+}
