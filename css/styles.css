@@ -2,6 +2,7 @@ body {
         text-align: center;
         font-family: 'monaco';
         color:deeppink;
+        margin: 0;
 }
 
 .borderline{
@@ -9,4 +10,16 @@ body {
         border-radius: 10px;
         width: 70%;
         margin: 0 auto;
+}
+
+.header{
+        background-color: deeppink;
+        color:white;
+        width: 100%;
+        height: 100px;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 20px;
 }
