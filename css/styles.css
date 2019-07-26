@@ -6,6 +6,9 @@ body {
 =======
         color:deeppink;
         margin: 0;
+<<<<<<< HEAD
+>>>>>>> header
+=======
 >>>>>>> header
 }
 
@@ -15,8 +18,11 @@ body {
         width: 60%;
         margin: 0 auto;
 <<<<<<< HEAD
+<<<<<<< HEAD
         box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 =======
+=======
+>>>>>>> header
 }
 
 .header{
@@ -29,5 +35,8 @@ body {
         justify-content: center;
         align-items: center;
         margin-bottom: 20px;
+<<<<<<< HEAD
+>>>>>>> header
+=======
 >>>>>>> header
 }
