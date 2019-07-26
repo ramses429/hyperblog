@@ -1,7 +1,12 @@
 body {
         text-align: center;
         font-family: 'monaco';
+<<<<<<< HEAD
         color:purple;
+=======
+        color:deeppink;
+        margin: 0;
+>>>>>>> header
 }
 
 .borderline{
@@ -9,5 +14,20 @@ body {
         border-radius: 20px;
         width: 60%;
         margin: 0 auto;
+<<<<<<< HEAD
         box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+=======
+}
+
+.header{
+        background-color: deeppink;
+        color:white;
+        width: 100%;
+        height: 100px;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 20px;
+>>>>>>> header
 }
