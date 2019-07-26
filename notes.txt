@@ -1,0 +1,4 @@
+use for see files in the past 
+git checkout SHA1 name of the fila that want to see in the past 
+git diff pastSHA1 moderSHA1
+git reset [=hard|soft] SHA1 
