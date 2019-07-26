@@ -1,12 +1,13 @@
 body {
         text-align: center;
         font-family: 'monaco';
-        color:deeppink;
+        color:purple;
 }
 
 .borderline{
         border: 2px solid deeppink;
-        border-radius: 10px;
-        width: 70%;
+        border-radius: 20px;
+        width: 60%;
         margin: 0 auto;
+        box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 }
