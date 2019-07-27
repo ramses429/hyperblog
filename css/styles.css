@@ -12,6 +12,7 @@ body {
   margin: 0 auto;
   box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
   overflow: hidden;
+  margin-bottom: 20px;
 }
 
 .header {
@@ -33,8 +34,6 @@ footer {
   align-items: center;
   background-color: deeppink;
   color: white;
-  position: absolute;
-  bottom: 0;
   width: 100%;
 }
 
