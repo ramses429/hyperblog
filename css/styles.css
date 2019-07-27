@@ -11,7 +11,6 @@ body {
   width: 60%;
   margin: 0 auto;
   box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
-  overflow: hidden;
 }
 
 .header {
@@ -23,5 +22,21 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-bottom: 5px;
+  margin-bottom: 20px;
+}
+
+footer {
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: deeppink;
+  color: white;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+footer h3 {
+  margin: 0;
 }
