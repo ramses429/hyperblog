@@ -1,26 +1,27 @@
 body {
-        text-align: center;
-        font-family: 'monaco';
-        color:purple;
-        margin: 0;
+  text-align: center;
+  font-family: "monaco";
+  color: purple;
+  margin: 0;
 }
 
-.borderline{
-        border: 2px solid deeppink;
-        border-radius: 20px;
-        width: 60%;
-        margin: 0 auto;
-        box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+.borderline {
+  border: 2px solid deeppink;
+  border-radius: 20px;
+  width: 60%;
+  margin: 0 auto;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  overflow: hidden;
 }
 
-.header{
-        background-color: deeppink;
-        color:white;
-        width: 100%;
-        height: 100px;
-        text-align: center;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        margin-bottom: 20px;
+.header {
+  background-color: deeppink;
+  color: white;
+  width: 100%;
+  height: 100px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 5px;
 }
