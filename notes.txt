@@ -3,3 +3,4 @@ git checkout SHA1 name of the fila that want to see in the past
 git checkout master to see the last version of the file name of the file
 git diff pastSHA1 modernSHA1
 git reset [=hard|soft] SHA1 
+git pull origin master --allow-unrelated-histories use for merge unrelated histories 
