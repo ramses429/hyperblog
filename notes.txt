@@ -4,3 +4,7 @@ git checkout master to see the last version of the file name of the file
 git diff pastSHA1 modernSHA1
 git reset [=hard|soft] SHA1 
 git pull origin master --allow-unrelated-histories use for merge unrelated histories 
+git tag -a v0.0.1 -m 'first section' HEAD
+git show-ref --tags
+git tag -d name_of_the_tag
+git push origin --tags
